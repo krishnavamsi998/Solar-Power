@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Solar Power</string>
+    <string name="solar_power_title">Welcome to Solar Power!</string>
+
+    <string name="solar_radio_button">Solar</string>
+    <string name="battery_radio_button">Battery</string>
+    <string name="grid_radio_button">Grid</string>
+
+    <string name="change_mode_button">Change mode</string>
+</resources>
